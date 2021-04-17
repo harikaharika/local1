@@ -8,4 +8,8 @@ for i in range(2000,3201):
         l.append(i)
 print(l)
 
+a=2
+b=3
+
+
 
