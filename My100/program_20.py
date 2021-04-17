@@ -12,6 +12,7 @@ def putNumbers(n):
         for i in range(40):
             l.append(i)
         print(l)
+        # hjkh
 
 
 
