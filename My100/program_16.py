@@ -19,6 +19,7 @@ print(list1)
 # sr=[int(i)**2 for i in x.split() if int(i)%2!=0]
 # print(sr)
 #
+
 # # l=([i*2 for i in range(0,100) if i%2==0])
 # # print(l)
 
